@@ -1,8 +1,8 @@
 {
-  "name": "@petejkim/react-scripts-ts-sass",
+  "name": "@grishgrigoryan/react-scripts-ts-sass",
   "version": "2.15.1",
-  "description": "Configuration and scripts for Create React App with support for TypeScript and Sass.",
-  "repository": "petejkim/create-react-app-typescript-sass",
+  "description": "Custom configuration and scripts for Create React App with support for TypeScript,Sass and EUI.",
+  "repository": "grishgrigoryan/create-react-app-typescript-sass",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=6"
