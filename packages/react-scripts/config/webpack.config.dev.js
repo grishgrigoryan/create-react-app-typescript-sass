@@ -115,9 +115,9 @@ module.exports = {
       // @remove-on-eject-end
       // Support React Native Web
       // https://www.smashingmagazine.com/2016/08/a-glimpse-into-the-future-with-react-native-for-web/
-      'react-native': 'react-native-web',
-      '@elastic/eui': '@elastic/eui/lib'
+      'react-native': 'react-native-web'
     },
+    mainField:['webpack', 'browser', 'main'],
     plugins: [
       // Prevents users from importing files from outside of src/ (or node_modules/).
       // This often causes confusion because we only process files within src/ with babel.
